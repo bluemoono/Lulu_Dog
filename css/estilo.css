@@ -1,3 +1,22 @@
+body{
+	background-color: green;
+}
+h1{
+	font-family: 'Kaushan Script', cursive;
+	color: lightblue;
+	font-size: 50px;
+	text-align: center;
+	margin: 0;
+	
+}
+h3{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: lightcyan;
+	font-size: 35px;
+	text-align: center;
+	font-weight: bolder;
+}
+
 #cachorro {
 	width: 8em;
 	margin-top: 400px;
